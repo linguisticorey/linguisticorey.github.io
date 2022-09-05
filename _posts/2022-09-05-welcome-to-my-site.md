@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Welcome to my site!"
+author: "Corey Wright"
+categories: journal
+tags: [documentation,sample]
+image: 
+---
+
+Hello! I’m Corey. I got my bachelors degree in linguistics from the State University of New York at Buffalo.
+My primary research interest in linguistics is in providing an account of the subtly productive processes underlying the novel generation of structures that are typically seen as wholly (or at least mostly) idiosyncratic: idiomatic multi-word expressions. Particularly, I want to provide a principled analysis for why idiom extension can occur at all. An example of idiom extension is: “if this cat gets let out of the bag, a lot of people are going to get scratched” (example due to Egan 2008), but it’s too hard to think of new ones, like “in this dog eat dog world, you’re bound to get bit”. If cat really means SECRET in the canonical let-out-of-the-bag idiom, then what is it that allows scratch to suddenly mean generalized HARM or MISFORTUNE, even though this is never canonically admissible? 
+
+My tentative proposal, inspired by a frame semantic view of encyclopedic linguistic conceptual organization, is that idiomatic cat simultaneously evokes a CAT frame and a SECRET frame. We know that cats can cause harm and that secrets can cause harm. Therefore, English speakers are equipped to dynamically assign a mapping between the prototypical cause of harm in the CAT frame (the scratch) and the prototypical cause of harm in the SECRET frame (the revealing of the secret).
+I’m also interested in how spatial metaphors are exploited in English idiomatic constructions, specifically VP idioms where the verbal element appears to be typically more semantically transparent (i.e. has a tighter connection to its prototypical literal meaning) than the NP, which I propose is often due to the verb’s exploiting of some sort of spatial metaphor, which in turn allows it to generalize and retain its ‘idiomatic’ meaning outside of the canonical idiom. Take spill the beans, rock the boat, bury the hatchet, and face the music. Now, consider these near-paraphrases with new nouns: rock the foundations, rock the system, bury our rivalry, bury our differences, face the reality, face the facts. The reverse doesn’t seem to be possible; we can’t readily derive paraphrases by replacing the verb: contend with the music, disregard the hatchet, etc.

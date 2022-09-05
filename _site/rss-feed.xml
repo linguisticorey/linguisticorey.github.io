@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>corey wright</title>
+		<description>linguistics student</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to my site!</title>
+				
+					<dc:creator>Corey Wright</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hello! I’m Corey. I got my bachelors degree in linguistics from the State University of New York at Buffalo.
+My primary research interest in linguistics is in providing an account of the subtly productive processes underlying the novel generation of structures that are typically seen as wholly (or at least mostly) idiosyncratic: idiomatic multi-word expressions. Particularly, I want to provide a principled analysis for why idiom extension can occur at all. An example of idiom extension is: “if this cat gets let out of the bag, a lot of people are going to get scratched” (example due to Egan 2008), but it’s too hard to think of new ones, like “in this dog eat dog world, you’re bound to get bit”. If cat really means SECRET in the canonical let-out-of-the-bag idiom, then what is it that allows scratch to suddenly mean generalized HARM or MISFORTUNE, even though this is never canonically admissible?&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 05 Sep 2022 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/welcome-to-my-site</link>
+				<guid isPermaLink="true">http://localhost:4000/welcome-to-my-site</guid>
+			</item>
+		
+	</channel>
+</rss>
